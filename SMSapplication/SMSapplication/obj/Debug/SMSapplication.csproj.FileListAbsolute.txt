@@ -1,0 +1,9 @@
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\bin\Debug\SMSapplication.pdb
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Form1.resources
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.SMSapplication.resources
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
+C:\Users\ZIONX\Desktop\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csprojResolveAssemblyReference.cache

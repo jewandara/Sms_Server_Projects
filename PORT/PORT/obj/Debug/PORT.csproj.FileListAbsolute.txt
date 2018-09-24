@@ -1,0 +1,9 @@
+C:\Users\ZIONX\Desktop\PORT\PORT\bin\Debug\PORT.exe.config
+C:\Users\ZIONX\Desktop\PORT\PORT\bin\Debug\PORT.exe
+C:\Users\ZIONX\Desktop\PORT\PORT\bin\Debug\PORT.pdb
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.exe
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.pdb
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\PORT\PORT\obj\Debug\PORT.Form5.resources

@@ -1,0 +1,6 @@
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\bin\Debug\WaitWindow.dll
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\bin\Debug\WaitWindow.pdb
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\obj\x86\Debug\Jacksonsoft.WaitWindowGUI.resources
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\obj\x86\Debug\WaitWindow.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\obj\x86\Debug\WaitWindow.dll
+C:\Users\ZIONX\Desktop\waitwindow\WaitWindow\WaitWindow\obj\x86\Debug\WaitWindow.pdb

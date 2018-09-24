@@ -1,0 +1,21 @@
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.exe
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.pdb
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Properties.Resources.resources
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.exe
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.AlertForm.resources
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.GUI.resources
+G:\Code\Visual Studio 2010\Projects\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Splash.resources
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.exe
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.pdb
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.exe
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\bin\Debug\BackgroundWorkerDemo.pdb
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.AlertForm.resources
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.GUI.resources
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.Splash.resources
+C:\Users\ZIONX\Desktop\BackgroundWorkerDemo\BackgroundWorkerDemo\BackgroundWorkerDemo\obj\x86\Debug\BackgroundWorkerDemo.csproj.GenerateResource.Cache

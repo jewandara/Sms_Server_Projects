@@ -1,0 +1,9 @@
+C:\Users\ZIONX\Desktop\READPORT\READPORT\bin\Debug\READPORT.exe.config
+C:\Users\ZIONX\Desktop\READPORT\READPORT\bin\Debug\READPORT.exe
+C:\Users\ZIONX\Desktop\READPORT\READPORT\bin\Debug\READPORT.pdb
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.Form1.resources
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.exe
+C:\Users\ZIONX\Desktop\READPORT\READPORT\obj\Debug\READPORT.pdb

@@ -1,0 +1,16 @@
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\ZIONX\Desktop\SerialPortListener_270410\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache

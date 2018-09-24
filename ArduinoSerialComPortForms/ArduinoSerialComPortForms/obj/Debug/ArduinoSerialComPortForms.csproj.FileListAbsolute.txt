@@ -1,0 +1,9 @@
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\bin\Debug\ArduinoSerialComPortForms.exe.config
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\bin\Debug\ArduinoSerialComPortForms.exe
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\bin\Debug\ArduinoSerialComPortForms.pdb
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.Form1.resources
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.Form2.resources
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.Properties.Resources.resources
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.csproj.GenerateResource.Cache
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.exe
+C:\Users\ZIONX\Desktop\ArduinoSerialComPortForms\ArduinoSerialComPortForms\obj\Debug\ArduinoSerialComPortForms.pdb
